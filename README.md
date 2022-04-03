@@ -1,4 +1,4 @@
-Hey 👋,I'm Sachin Parihar
+Hey 👋,I'm Sachin Parihar.
 
 - 🌱 I’m currently learning DevOps.
 - 👯 I’m looking to collaborate on GitHub.
