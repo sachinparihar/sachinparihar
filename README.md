@@ -1,6 +1,6 @@
 Hey 👋,I'm Sachin Parihar.
 
-- 🌱 I’m currently learning DevOps.
+- 🌱 I’m currently learning DevOps and contributing to Open Source.
 - 👯 I’m looking to collaborate on GitHub.
 
 
