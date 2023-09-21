@@ -5,11 +5,7 @@
 
 [![Twitter](https://img.shields.io/twitter/follow/sachinsarkar001?logo=twitter&style=for-the-badge)](https://twitter.com/sachinsarkar001)
 
-- 🔭 I’m currently working on [Go-Weather-App](https://github.com/sachinparihar/Go-Weather-App)
-
 - 🌱 I’m currently learning **Azure Cloud and FaaS Technologies**
-
-- 📝 I write blogs on [https://sachinparihar.hashnode.dev/](https://sachinparihar.hashnode.dev/)
 
 - 💬 Ask me about **DevOps, Azure Cloud, and Serverless**
 
