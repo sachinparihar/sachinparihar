@@ -18,6 +18,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sachin-parihar-937b3b237/)
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://sachinparihar.hashnode.dev)
 
+<h3 align="left">Support Me:</h3>
+<a href="https://www.buymeacoffee.com/sachinparihar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
 
 <h3 align="left">Languages:</h3>
 <p align="left">
