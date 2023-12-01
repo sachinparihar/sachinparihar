@@ -1,5 +1,5 @@
 # Hi 👋, I'm Sachin Parihar
-### A passionate DevOps and Cloud enthusiast
+### A passionate DevOps and Cloud Enthusiast
 
 ![Profile views](https://komarev.com/ghpvc/?username=sachinparihar&label=Profile%20views&color=0e75b6&style=flat)
 
